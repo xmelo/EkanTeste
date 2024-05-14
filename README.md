@@ -4,7 +4,7 @@ Olá Prezados, segue o teste da avaliação para desenvolvedor Java.
 No commit, estão as entidades, repositorios, camada de serviço, DTO e controller. 
 Também acrescentei o pacote de Security para a implementação da Autorização da API.
 
-Rodando o projeto
+# Executando o projeto
 Para executar o projeto é necessario primeiro baixar as dependências do maven.
 
 Maven Build
