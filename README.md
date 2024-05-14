@@ -7,8 +7,8 @@ Também acrescentei o pacote de Security para a implementação da Autorização
 # Executando o projeto
 Para executar o projeto é necessario primeiro baixar as dependências do maven.
 
-Maven Build
-New Configuration
+* Maven Build
+* New Configuration
 Incluir o diretorio do projeto, e no campo "goals" inserir "clean install"
 
 Obrigado pela oportunidade.
